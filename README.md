@@ -7,3 +7,4 @@ The first one will be a C program. AFter that we will try a few different langua
 
 - C
 - Go
+- Ruby
