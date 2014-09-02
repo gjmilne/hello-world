@@ -2,6 +2,6 @@
 
 int main(int argc, char *argv[])
 {
-	printf("Hello, World, on a branch!\n");
+	printf("Hello, World, back from the branch!\n");
 	return 0;
 }
